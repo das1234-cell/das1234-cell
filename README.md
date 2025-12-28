@@ -1,5 +1,5 @@
 # 💫 About Me:
-a centralized 'Lost & Found' portal for my campus using Google Technologies.<br>innovative web development projects and student-utility tools.<br>advanced JavaScript frameworks and backend optimization.<br>Full-Stack Web Development, Firebase, and Python Automation.<br>Html, CSS, JavaScript, Java, C++ and basic C/Python programming.<br>I am building my own AI Desktop Assistant named Sakin to automated my daily tasks! 
+a centralized 'Lost & Found' portal for my campus using Google Technologies.<br>innovative web development projects and student-utility tools and C++ based Game Development and innovative AI and Web Projects .<br>advanced JavaScript frameworks and backend optimization and mastering advanced Data Structures (DSA) and Python automation.<br>Full-Stack Web Development, Firebase, Python Automation, Java, and building AI Agents using Google Technologies.<br>Html, CSS, JavaScript, Java, C++ and basic C/Python programming, Data Structures, practical coding logic.<br>I am building my own AI Desktop Assistant named Sakin to automated my daily tasks! 
 
 
 ## 🌐 Socials:
